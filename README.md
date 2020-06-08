@@ -5,7 +5,7 @@
 - executor55@gmx.de 
 - executor55@gmail.com 
 
-## You can also find this pgp file via openpgp.org
+## You can also find this PGP Public Key via openpgp.org
 https://keys.openpgp.org/
 
 ## Further you can send me a PGP encrypted message via FlowCrypt
