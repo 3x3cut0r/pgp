@@ -1,6 +1,4 @@
-# PGP Public Key for E-Mail Encryption
-
-This Key contains the Public Key for the folowing E-Mails:
+# PGP Public Key for the E-Mails below
 
 - julianreith@gmx.de 
 - julianreith@me.com 
